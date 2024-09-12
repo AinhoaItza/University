@@ -1,0 +1,27 @@
+button {
+    margin: 0 auto;
+}
+
+.image-container {
+ margin-top: 20px; /* Add some space between the button and the images */
+ padding: 5px;
+}
+  
+.image-container img {
+ width: 65%; /* Make each image take up 25% of the container's width */
+ margin: 0 50px; /* Espacio entre las imágenes */
+}
+
+.image-container a {
+ margin: 0 30px; /* Aumenta el espacio entre los enlaces */
+ display: flex; /* Asegura que los enlaces actúen como contenedores flexibles */
+}
+  
+
+  
+  
+  
+  
+  
+  
+  

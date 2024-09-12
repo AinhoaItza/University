@@ -1,0 +1,20 @@
+button {
+    margin: 0px auto;
+}
+.logo {
+    margin-top: 8vh;
+}
+
+.retro-button{
+    font-size: 25px;
+    margin-bottom: 5vh;
+    padding: 1.5vh 2vw;
+    width: 90vw;
+}
+
+.imagen-debajo-button{
+    border: 0.2vw solid black; /* Ajustado para utilizar unidades de vista */
+    border-radius: 1vw; /* Ajustado para utilizar unidades de vista */
+    display: block;
+    margin: 0 auto;
+}

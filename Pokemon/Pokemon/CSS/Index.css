@@ -1,0 +1,48 @@
+body {
+    align-items: center;
+    background-image: url("../Gifs/pokemoncity.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+  }
+
+  header {
+    font-family: "Press Start 2P", sans-serif;
+    font-size: 4vw; /* Ajustado para utilizar unidades de vista */
+    margin-bottom: 4vh; /* Ajustado para utilizar unidades de vista */
+  }
+  .logo {
+    height: auto;
+    margin-top: 20vh;
+    /*margin-bottom: 6vh;*/ /* Ajuste de la posición del logo */
+    width: 30vw; /* Ajustado para utilizar unidades de vista */
+  }
+
+  button {
+    background-color: rgba(76, 175, 80, 0.7); /* Color de fondo del botón */
+    border: 0.2vw solid black; /* Ajustado para utilizar unidades de vista */
+    border-radius: 1vw; /* Ajustado para utilizar unidades de vista */
+    color: white;
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    transition: background-color 0.3s;
+  }
+
+  .StartButton{
+    cursor: pointe;
+    font-size: 30px;
+  }
+  
+  button:hover:not(.retro-button) {
+    background-color: rgba(35, 111, 39, 0.7);
+  }
+  
+  a {
+    text-decoration: none; /* Eliminar la decoración del enlace */
+  }

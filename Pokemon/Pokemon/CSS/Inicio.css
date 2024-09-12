@@ -1,0 +1,15 @@
+.retro-button {
+  font-size: 30px; /* Ajustado para utilizar unidades de vista */
+  margin-bottom: 8vh; /* Ajustado para utilizar unidades de vista */
+  padding: 1.5vh 2vw; /* Ajustado para utilizar unidades de vista */
+  width: 80vw;
+}
+
+.NextButton {
+  font-size: 25px;
+}
+
+
+a {
+  text-decoration: none; /* Eliminar la decoración del enlace*/
+} 
