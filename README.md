@@ -16,4 +16,5 @@ Feel free to reach out if you have any questions or suggestions. Happy coding!
 ## Pokemon
 In this project, I aimed to ensure the proper formation of HTML and CSS files while focusing on the optimization of common resources such as CSS and images. I worked to avoid orphaned links and used optimized images to balance size and weight for web efficiency. Additionally, I prioritized correct and logical linking between different HTML files to create a cohesive and well-structured web experience.
 The classes in the HTML code are named in Spanish because the course was conducted in Spanish. However, I've made some changes to the code to ensure that everyone can understand the story in English. 
+![Screenshot of my Pokemon website](https://s3.amazonaws.com/shecodesio-production/uploads/files/000/143/161/original/captura_de_pantalla_pokemon_pagina_web.png?1726150536)
 
